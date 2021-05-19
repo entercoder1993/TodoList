@@ -1,0 +1,4 @@
+include ':todolist'
+include ':mycamera'
+include ':app'
+rootProject.name = "My Application"
